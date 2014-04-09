@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/dip-1.6.1.jar" sourcepath="/dip/src"/>
+	<classpathentry kind="lib" path="lib/jac-0.8.1.jar"/>
+	<classpathentry kind="lib" path="lib/negoClient-2.1-all.jar" sourcepath="/negoClient/lib/dipNego-2.1.jar"/>
+	<classpathentry kind="lib" path="lib/tcpIpComm-0.1.2.jar"/>
+	<classpathentry kind="lib" path="lib/utilities-1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/bot-1.6.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.dipgame.org/downloads_nou/bot-1.6-javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
